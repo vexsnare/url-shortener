@@ -1,4 +1,4 @@
-# url-shortener
+# Url Shortener
 
 How to start the url-shortener application
 ---
